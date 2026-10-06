@@ -7,3 +7,4 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 # 1. Titanic Model .
 
 --> In **Titanic dataset** i implement a  ML model using **logistic Regression**  .
+--> In model **target=survived** .
