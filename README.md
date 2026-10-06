@@ -11,3 +11,5 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 --> In titanic the ML model predicts which onboarding passenger is survived or not 
 
 --> In model **target input =survived** .
+
+--> **Accuracy** of the model is **77 %**
