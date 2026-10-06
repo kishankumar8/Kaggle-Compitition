@@ -8,4 +8,6 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 
 --> In **Titanic dataset** i implement a  ML model using **logistic Regression**  .
 
+--> In titanic the ML model predicts which onboarding passenger is survived or not 
+
 --> In model **target input =survived** .
