@@ -13,3 +13,6 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 --> In model **target input =survived** .
 
 --> **Accuracy** of the model is **77 %**
+
+
+# 2. House_price prediction .
