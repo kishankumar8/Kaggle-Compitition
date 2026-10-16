@@ -6,7 +6,7 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 
 # 1. Titanic Model .
 
---> In **Titanic dataset** i implement a  ML model using **DecisionTreeClassifier**  .
+--> In **Titanic dataset** I implement a  ML model using **DecisionTreeClassifier**  .
 
 --> In titanic the ML model predicts which onboarding passenger is survived or not 
 
@@ -17,4 +17,4 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 
 # 2. House_price prediction .
 
--->In **House_price_Prediction**
+-->In **House_price_Prediction** I imlement a ML model using **LinearRegression**
