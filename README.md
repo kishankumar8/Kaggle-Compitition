@@ -17,4 +17,4 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 
 # 2. House_price prediction .
 
--->In **House_price_Prediction** I imlement a ML model using **LinearRegression**
+-->In **House_price_Prediction** I imlement a ML model using **LinearRegression** .
