@@ -15,7 +15,7 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 --> **Accuracy** of the model is **77 %**
 
 
-# 2. House_price prediction .
+# 2. House_price_prediction .
 
 -->In **House_price_Prediction** I imlement a ML model using **LinearRegression** .
 
