@@ -28,4 +28,4 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 --> Model **r2_score = 88% ** .
 
 
-# 3. spaceship_trn
+# 3. spaceship_tran
