@@ -4,7 +4,7 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 
 # All  My Completed ML  Compititions on Kaggle .
 
-# 1. Titanic Model .
+# 1. Titanic_Model .
 
 --> In **Titanic dataset** I implement a  ML model using **DecisionTreeClassifier**  .
 
