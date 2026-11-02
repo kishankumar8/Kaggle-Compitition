@@ -8,7 +8,7 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 
 --> In ** Titanic dataset ** I implement a  ML model using ** DecisionTreeClassifier **  .
 
---> In titanic the ML model predicts which onboarding passenger is survived or not 
+--> In titanic the ML model predicts which onboarding passenger is survived or not .
 
 --> In model ** Target input = survived ** .
 
