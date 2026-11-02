@@ -23,8 +23,6 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 
 --> In model **Target input = SalePrice** .
 
-#
-
 ---> Model **MSE = 84 %** .
 
 --> Model **r2_score = 88 % ** .
