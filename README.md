@@ -32,6 +32,6 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 
 --> In **Spaceship dataset** I implement a ML model using **LogisticRegression** .
 
--->In this ML model predict 
+-->In this ML model predicts
 
 
