@@ -1,4 +1,4 @@
-# Kaggle-Compitition
+# Kaggle-Compititions
 
 
 In this repository i upload all my kaggle machine learning (ML) compititions and share all my ML models that i implement during  this competitions .
