@@ -44,4 +44,4 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 
 # 4. Electric_vehicle_purchase .
 
---> In **Electric_purchase_
+--> In **Electric_vehicle_purchase
