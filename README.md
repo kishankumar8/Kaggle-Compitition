@@ -45,3 +45,5 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 # 4. Electric_vehicle_purchase .
 
 --> In **Electric_vehicle_purchase** I Imlement a ML model that **predict** purchases of **electric_vehicle** using **RandomForestClassifier** .
+
+-->
