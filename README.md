@@ -42,4 +42,4 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 -->  **Accuracy** of the Model = **77 %**
 
 
-# 4. Electric_vehicle
+# 4. Electric_vehicle_purchase
