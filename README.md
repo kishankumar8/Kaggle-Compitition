@@ -50,6 +50,6 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 
 --> In  model **target input = purchases** .
 
--->
+-->In model use cccurcy_score , clsssifiction_report for model ccurcy .
 
 --> **Accuracy** of the model = **89 % ** .
