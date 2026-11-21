@@ -48,4 +48,4 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 
 --> In **electric_vehicle_purchase** model predicts  the   **purchases of electric_vehicle** .
 
---> In  model **trget input =
+--> In  model **target input =
