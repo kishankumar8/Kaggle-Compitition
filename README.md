@@ -50,4 +50,4 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 
 --> In  model **target input = purchases** .
 
--->
+--> **Accuracy**
