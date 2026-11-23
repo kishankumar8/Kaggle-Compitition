@@ -57,3 +57,6 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 -->In model use **acccurcy_score** , **classifiction_report** for model Accuracy .
 
 --> **Accuracy** of the model = **89 % ** .
+
+
+#
