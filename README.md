@@ -28,7 +28,7 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 
 --> In model **Target input = SalePrice** .
 
---> In model uses **root_square_error** and **r2_score** for checking model efficiecy .
+--> In model uses **root_square_error** and **r2_score** for checking **model efficiecy** .
 
 ---> Model **MSE = 84 %** .
 
