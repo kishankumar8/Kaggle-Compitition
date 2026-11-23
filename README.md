@@ -28,7 +28,7 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 
 --> In model **Target input = SalePrice** .
 
---> In model uses **
+--> In model uses **root_square_error**
 
 ---> Model **MSE = 84 %** .
 
