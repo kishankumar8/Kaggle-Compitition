@@ -15,7 +15,7 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 
 --> In model **Target input = survived** .
 
---> In model uses **acccuracy_score** for **Accuracy** .
+--> In model use **acccuracy_score** for **Accuracy** .
 
 --> **Accuracy** of the model is **77 %**
 
