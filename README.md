@@ -43,7 +43,7 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 
 --> In model **target input = Transported** .
 
---> In model uses accuracy_**
+--> In model uses accuracy_score**
 
 -->  **Accuracy** of the Model = **77 %**
 
