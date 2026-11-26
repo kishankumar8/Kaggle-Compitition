@@ -61,4 +61,4 @@ In this repository i upload all my kaggle machine learning (ML) compititions and
 --> **Accuracy** of the model = **89 % ** .
 
 
-# House_price
+# House_price_prediction 
